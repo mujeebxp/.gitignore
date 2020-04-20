@@ -1,1 +1,1 @@
-# .gitignore
+# .Auto mega run😂
